@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Thie program runs on the CPU and encrypts a 4-character password (2 letters and 2 numbers)
+
 // Encrypts a 4-character password (2 letters and 2 numbers)
 char* cudaCrypt(char* rawPassword) {
     static char newPassword[11]; // Static array to store the encrypted password, returned to the caller
