@@ -137,6 +137,8 @@ The Regular Encryption Program is a good choice for small-scale tasks and enviro
 
 Choose the program based on your specific needs, balancing ease of use against performance and scalability.
 
+For a more helpful guide into CUDA installation and CUDA programming, please visit [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4).
+
 ## License
 This project is private and under the ownership of Neville Abolo
 
